@@ -4,6 +4,7 @@ public class Test {
 	
 	public static void main(String[] args)
 	{
+		int a;
 		qiche ss=new qiche();
 		ss.happy("ÄãºÃÑ½£¡");
 		ss.num=4;
