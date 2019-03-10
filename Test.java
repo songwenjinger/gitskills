@@ -11,7 +11,7 @@ public class Test {
 		ss.color="ºÚ";
 		ss.brand="´óÖÚ";
 		ss.run();
-		qiyou sd=new qiyou();
+		**8=new qiyou();
 		sd.quality=8;
 		sd.brand1="hello";
 		sd.print();
